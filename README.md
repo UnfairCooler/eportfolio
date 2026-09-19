@@ -163,7 +163,7 @@ Kurssilla tehty harjoitus perustui projektipäällikön työpaikkailmoitukseen j
 
 ### Työpaikkahakemus
 
-[Liitä teksti, kuvakaappaus tai linkki tuotokseen.]
+[TYÖHAKEMUS.docx](https://github.com/user-attachments/files/32415749/TYOHAKEMUS.docx)
 
 ### Reflektio
 
