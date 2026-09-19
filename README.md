@@ -111,9 +111,9 @@ Kurssilla tehty harjoitus perustui projektipäällikön työpaikkailmoitukseen j
 ### Reflektio
 
 * **Arvio** - 3/5
-**Mikä onnistui?** - Hakemuksessa tuodaan esille motivaatio, M365 osaaminen, asiakaspalvelukokemus ja DFP-projektissa saadut taidot.
-**Missä parannettavaa** - Hakemukseen voisi lisätä konkreettisia esimerkkejä osaamisesta ja projektityöskentelystä.
-**Mitä opin muista hakemuksista** - Hakemuksen kannattaa olla persoonallinen, selkeä ja kohdistettu haettavaan tehtävään.
+* **Mikä onnistui?** - Hakemuksessa tuodaan esille motivaatio, M365 osaaminen, asiakaspalvelukokemus ja DFP-projektissa saadut taidot.
+* **Missä parannettavaa** - Hakemukseen voisi lisätä konkreettisia esimerkkejä osaamisesta ja projektityöskentelystä.
+* **Mitä opin muista hakemuksista** - Hakemuksen kannattaa olla persoonallinen, selkeä ja kohdistettu haettavaan tehtävään.
 
 
 ---
