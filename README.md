@@ -110,23 +110,11 @@ Kurssilla tehty harjoitus perustui projektipäällikön työpaikkailmoitukseen j
 
 ### Reflektio
 
-#### What? – Mitä tein?
+**Arvio** - 3/5
+**Mikä onnistui?** - Hakemuksessa tuodaan esille motivaatio, M365 osaaminen, asiakaspalvelukokemus ja DFP-projektissa saadut taidot.
+**Missä parannettavaa** - Hakemukseen voisi lisätä konkreettisia esimerkkejä osaamisesta ja projektityöskentelystä.
+**Mitä opin muista hakemuksista** - Hakemuksen kannattaa olla persoonallinen, selkeä ja kohdistettu haettavaan tehtävään.
 
-Kuvaan lyhyesti, millaiseen tehtävään hakemus suunnattiin ja miten lähestyimme tehtävää.
-
-#### So What? – Mitä opin?
-
-Mitä opin oman osaamiseni sanoittamisesta?
-
-Mitä oli vaikea kirjoittaa?
-
-Miten muutin teknisen osaamisen työnantajalle ymmärrettäväksi?
-
-Mitä vahvuuksia tunnistin itsessäni?
-
-#### Now What? – Mitä hyödynnän jatkossa?
-
-Mitä tästä harjoituksesta voisin käyttää oikeassa työnhaussa?
 
 ---
 
