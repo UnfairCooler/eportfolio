@@ -31,8 +31,11 @@ Tämän tarkoituksena on estää portfoliota jäämästä pelkäksi tehtävien k
 2. **Vaihe 2 – Oman osaamisen näkyväksi tekeminen ja presentaatiotaidot**
 
    * 2.1 Työnhaku ja avoin työpaikkahakemus
-   * 2.2 Oman osaamisen, vahvuuksien ja ammatillisen profiilin näkyväksi tekeminen
-   * Presentaatiotaidot ja valmistautuminen Sprint Review -esitykseen
+   * 2.2 ePortfolio: Mitä otan viemisinä Urapalveluiden esityksestä?
+   * 2.3. ePortfolio: Sprint Review 1. ja esitys asiakkaalle
+     - Ennen sprinttiä: 1. Minkä rakenteen valitsemme esityksellemme?
+     - Ennen sprinttiä: 2. Miten visualisoisimme esityksemme?
+     - Sprintin jälkeen: 3. Henkilökohtainen reflektio esityksestä
 
 3. **Vaihe 3 – Sprint Review ja asiakasviestintä**
 
@@ -187,75 +190,76 @@ Mitä tästä harjoituksesta voisin käyttää oikeassa työnhaussa?
 
 ---
 
-## 2.2 Oman osaamisen, vahvuuksien ja ammatillisen profiilin näkyväksi tekeminen
+## 2.2 Mitä otan viemisinä Urapalveluiden esityksestä?
 
-**Tarkista Moodlesta tämän kohdan tarkka 2.2-otsikko ennen lopullista palautusta.** Transcriptista käy ilmi 2.2-harjoitus, mutta otsikkoa ei lausuta kokonaisuudessaan.
+**Tehtävä:** Kirjoitan lyhyesti **3–5 konkreettista asiaa**, jotka jäivät päällimmäisinä mieleeni Urapalveluiden materiaalista ja jotka haluan ottaa jatkossa huomioon työnhaussa. Voin täydentää tätä kohtaa myöhemmin.
 
-### Ammatillinen profiilini
+1. **[Konkreettinen asia 1]** – [Mitä otan huomioon työnhaussa?]
+2. **[Konkreettinen asia 2]** – [Mitä otan huomioon työnhaussa?]
+3. **[Konkreettinen asia 3]** – [Mitä otan huomioon työnhaussa?]
+4. **[Konkreettinen asia 4, halutessani]** – [Mitä otan huomioon työnhaussa?]
+5. **[Konkreettinen asia 5, halutessani]** – [Mitä otan huomioon työnhaussa?]
 
-Kuka olen ammattilaisena tai kehittyvänä IT-alan osaajana?
-
-[Täydennä.]
-
-### Keskeiset vahvuuteni
-
-Valitsen noin 5 keskeistä vahvuutta, joilla haluan kuvata tämänhetkistä osaamistani.
-
-Jokaisen kohdalla pyrin kertomaan myös, **mistä näyttö vahvuudesta tulee**.
-
-Esimerkiksi:
-
-**Vahvuus:** ongelmanratkaisu
-**Näyttö:** [konkreettinen tilanne projektista]
-**Mitä tein:** [...]
-**Mitä tämä kertoo osaamisestani:** [...]
-
-### Digitaalinen ammatillinen näkyvyyteni
-
-Arvioin nykyisiä kanaviani:
-
-* GitHub
-* portfolio / GitHub Pages
-* LinkedIn
-* CV
-* muut mahdolliset oman alan palvelut.
-
-Pohdin myös, välittyykö eri kanavista **sama ammatillinen viesti**. Kurssilla korostetaan profiilin, projektien, osaamisen ja eri palveluiden välisten linkitysten johdonmukaisuutta.
+[Kirjoitan tähän omat havaintoni Urapalveluiden esityksestä.]
 
 ---
 
-## Presentaatiotaidot ja valmistautuminen Sprint Review -esitykseen
+## 2.3. ePortfolio: Sprint Review 1. ja esitys asiakkaalle (Zoom-tehtävä)
 
-### Esityksen tavoite
+**Tehtävän tarkoitus:** Pohdimme tiiminä, sopisiko pitchaus ensimmäisen Sprint Review'n esitystavaksi perinteisen PowerPoint-esityksen sijaan. Tavoitteena on kertoa projektin tärkeät löydökset, ehdotukset ja opit asiakkaalle tai sidosryhmille selkeästi, tiiviisti ja vaikuttavasti.
 
-Mitä haluamme kertoa asiakkaalle?
+### ENNEN SPRINTTIÄ
 
-### Asiakas ja kohderyhmä
+*Kirjaan omaan portfoliooni tiimin kanssa käydyn keskustelun ajatukset kohdista 1 ja 2 ennen ensimmäistä sprinttiä.*
 
-Kenelle puhumme?
+#### 1. Minkä rakenteen valitsemme esityksellemme?
 
-Mitä asiakas tarvitsee tietää?
+**Mahdolliset pitch-rakenteet:**
 
-Mitä teknistä tietoa asiakkaan **ei tarvitse** tietää?
+- Ongelma – Ratkaisu – Hyöty (Problem–Solution–Benefit)
+- Miksi – Mitä – Miten – Vaikutus (Why–What–How–Impact)
+- Elevator Pitch
+- Storytelling
 
-### Esitystapa
+**Tiimimme valitsema tai harkitsema rakenne:** [Täydennä tiimin keskustelun perusteella.]
 
-Arvioimme esimerkiksi:
+**Miksi valitsimme tai harkitsimme tätä rakennetta?** [Täydennä.]
 
-* perinteistä presentaatiota
-* pitch-tyyppistä esitystä
-* storytellingia
-* demoja
-* infografiikkaa.
+**Miten rakenne sopii aiheeseemme ja Sprint Review -tilaisuuteen?** [Täydennä.]
 
-### Visualisointi
+**Valitsemmeko pitchauksen vai perinteisemmän PowerPoint-esityksen? Miksi?** [Täydennä.]
 
-Miten teemme esityksestä:
+**Muita huomioita keskustelusta:** [Täydennä.]
 
-* selkeän
-* helposti seurattavan
-* asiakkaan brändiin ja tyyliin sopivan
-* visuaalisen ilman liiallista tekstiä?
+#### 2. Miten visualisoisimme esityksemme?
+
+**Miten teemme esityksestä havainnollistavan ja asiakasystävällisen?** [Täydennä tiimin keskustelun perusteella.]
+
+**Miten esityksemme eroaa perinteisestä PowerPoint-esityksestä, joita olen aiemmin tehnyt tai nähnyt?** [Täydennä.]
+
+**Onko esityksen visuaalinen ilme linjassa asiakkaan ulkoisen kuvan kanssa (esimerkiksi verkkosivujen kanssa)?** [Täydennä.]
+
+**Muut visualisointia koskevat ajatukset:** [Täydennä.]
+
+### SPRINTIN JÄLKEEN
+
+#### 3. Henkilökohtainen reflektio esityksestä
+
+*Kirjoitan tämän osion itse ensimmäisen Sprint Review'n jälkeen ja pohdin, miten esityksen laatiminen kehitti osaamistani.*
+
+**Mitä opin viestinnästä, esiintymisestä tai asioiden tiivistämisestä?** [Täydennä.]
+
+**Oliko esityksemme pitch vai perinteinen PowerPoint-esitys?** [Täydennä.]
+
+**Miten voin hyödyntää pitchaus- ja esitystaitoja tulevissa projekteissa, opinnoissa tai työelämässä?** [Täydennä.]
+
+**Miten asiakas tai ohjaaja reagoi esitykseemme, sen rakenteeseen ja havainnollistamiseen? Reagoiko hän lainkaan?** [Täydennä havaintojeni perusteella.]
+
+**Mitä tekisin tai tekisimme seuraavassa Sprint Review'ssa toisin?** [Täydennä.]
+
+**Haluaisinko tai haluaisimmeko kokeilla seuraavalla kerralla erilaista pitch-rakennetta? Miksi tai miksi emme?** [Täydennä.]
+
+**Muita ajatuksia esityksestä:** [Täydennä.]
 
 ---
 
