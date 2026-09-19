@@ -123,7 +123,7 @@ Portfolioa ei ole tarkoitus tehd채 valmiiksi yhdell채 kertaa. Sit채 p채ivitet채�
 
 ### Tiimisopimuksemme
 
-[Liit채 tiimisopimus tai linkki siihen.]
+[Tiimisopimus.docx](https://github.com/user-attachments/files/32415633/Tiimisopimus.docx)
 
 ### Oma reflektio tiimisopimuksesta
 
