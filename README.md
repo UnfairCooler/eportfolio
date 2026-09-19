@@ -192,15 +192,15 @@ Mitä tästä harjoituksesta voisin käyttää oikeassa työnhaussa?
 
 ## 2.2 Mitä otan viemisinä Urapalveluiden esityksestä?
 
-**Tehtävä:** Kirjoitan lyhyesti **3–5 konkreettista asiaa**, jotka jäivät päällimmäisinä mieleeni Urapalveluiden materiaalista ja jotka haluan ottaa jatkossa huomioon työnhaussa. Voin täydentää tätä kohtaa myöhemmin.
+Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä pelkkä osaamisen luetteleminen. Tämä täytyy tehdä näkyväksi konkreettisesti esimerkkien avulla ja saada esitettyä tavalla joka herättää työnantajan kiinnostuksen
 
-1. **[Konkreettinen asia 1]** – [Mitä otan huomioon työnhaussa?]
-2. **[Konkreettinen asia 2]** – [Mitä otan huomioon työnhaussa?]
-3. **[Konkreettinen asia 3]** – [Mitä otan huomioon työnhaussa?]
-4. **[Konkreettinen asia 4, halutessani]** – [Mitä otan huomioon työnhaussa?]
-5. **[Konkreettinen asia 5, halutessani]** – [Mitä otan huomioon työnhaussa?]
+**Tehtävä:** Kirjoitan lyhyesti **3–5 konkreettista asiaa**, jotka jäivät päällimmäisinä mieleeni Urapalveluiden materiaalista ja jotka haluan ottaa jatkossa huomioon työnhaussa.
 
-[Kirjoitan tähän omat havaintoni Urapalveluiden esityksestä.]
+1. **Konkreettiset esimerkit** – Näytän osaamiseni työnhaussa kertomalla mitä olen tehnyt projekteissa
+2. **Yhtenäinen profiili** – Pidän CV:n, Linkkarin ja portfolion tiedot ajan tasalla
+3. **Motivaatio** – Kerron työhakemuksessa miksi juuri kyseinen työ kiinnostaa minua
+4. **Omat vahvuudet** – Tunnistan tärkeimmät vahvuuteni ja tuon ne esille
+5. **Portfolio** – Kehitän portfoliostani selkeän jotta tämä havainnollistaa osaamistani työnantajalle
 
 ---
 
@@ -221,7 +221,7 @@ Mitä tästä harjoituksesta voisin käyttää oikeassa työnhaussa?
 - Elevator Pitch
 - Storytelling
 
-**Tiimimme valitsema tai harkitsema rakenne:** [Täydennä tiimin keskustelun perusteella.]
+**Tiimimme valitsema tai harkitsema rakenne:** [Täydennä.]
 
 **Miksi valitsimme tai harkitsimme tätä rakennetta?** [Täydennä.]
 
