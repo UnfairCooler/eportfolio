@@ -6,11 +6,9 @@
 
 ## ePortfolion mallipohjan valinta ja perustelut
 
-Rakennan ePortfolioni **Markdown-muotoon ja julkaisen sen GitHub Pages -sivuna**. Valitsin tämän ratkaisun, koska portfolio on silloin helppo ylläpitää, muokata ja jakaa linkillä. Markdown-muotoinen sisältö on myös mahdollista siirtää myöhemmin suhteellisen helposti esimerkiksi GitHub-profiiliin, toiselle verkkosivustolle tai muuhun palveluun.
+Rakennan ePortfolioni **Githubiin ja julkaisen sen GitHub Pages -sivuna**. Valitsin tämän ratkaisun, koska portfolio on silloin helppo ylläpitää, muokata ja jakaa linkillä.
 
-Kurssin ohjeissa korostetaan, että ePortfolion pitäisi olla helposti ylläpidettävä, myöhemmin muokattava sekä opettajalle helposti jaettavissa. Sisältöä pitäisi myös voida siirtää myöhemmin muihin ympäristöihin.
-
-GitHub Pages sopii tähän paremmin kuin pelkkä GitHub-repositorio, koska tavoitteena ei ole ainoastaan tallentaa tiedostoja tai koodia, vaan esittää omaa osaamista selkeästi myös sellaiselle lukijalle, joka ei ole IT-alan asiantuntija. Kurssin arvioinnissa huomioidaan myös lukija ja se, miten ymmärrettävästi oma osaaminen esitetään.
+GitHub Pages sopii tähän paremmin kuin pelkkä GitHub-repositorio, koska tavoitteena ei ole ainoastaan tallentaa tiedostoja tai koodia, vaan esittää omaa osaamista selkeästi myös sellaiselle lukijalle, joka ei ole IT-alan asiantuntija.
 
 Sisällön reflektoinnissa käytän soveltuvissa kohdissa rakennetta **What? – So What? – Now What?**
 
@@ -65,45 +63,15 @@ Tämän tarkoituksena on estää portfoliota jäämästä pelkäksi tehtävien k
 
 ## 1.1 Lähtötilanne – tämänhetkinen projektiosaamiseni
 
-**Tämä kohta kirjoitetaan ilman tekoälyä.**
-
 Tässä kuvaan oman lähtötilanteeni kurssin alussa.
 
 ### Aikaisempi kokemukseni projektityöstä
 
-[Täydennä omin sanoin.]
-
-Voin käsitellä esimerkiksi:
-
-* aikaisempia opintoihin liittyviä projekteja
-* työelämässä saatua projektikokemusta
-* harrastusten kautta saatua kokemusta
-* kokemusta tiimityöskentelystä
-* kokemusta asiakasviestinnästä.
-
-### Tämänhetkiset vahvuuteni
-
-[Täydennä omin sanoin.]
-
-Konkreettinen esimerkki vahvuudestani:
-
-[Tilanne + mitä tein + mitä siitä seurasi.]
-
-### Kehittämiskohteeni
-
-[Täydennä omin sanoin.]
-
-### Mitä odotan oppivani tämän projektin aikana?
-
-[Täydennä omin sanoin.]
-
-Tähän lähtötilanteeseen palataan kurssin lopussa, jolloin arvioin uudelleen omaa osaamistani ja vertaan sitä kurssin alun tilanteeseen.
+<img width="309" height="860" alt="image" src="https://github.com/user-attachments/assets/ff53b2aa-eb0c-4071-9bba-dc02bf1fc68c" />
 
 ---
 
 ## 1.2 E-portfolioni – mallipohja ja lähestymistapa
-
-[Tähän jää tämän dokumentin alussa oleva mallipohjan valinta ja perustelu.]
 
 Portfolion tekninen toteutus:
 
@@ -117,8 +85,6 @@ Perustelut:
 * sisältö voidaan siirtää myöhemmin muualle
 * sopii oman IT-alan osaamisen esittelyyn
 * mahdollistaa projektien ja työnäytteiden linkittämisen.
-
-Portfolioa ei ole tarkoitus tehdä valmiiksi yhdellä kertaa. Sitä päivitetään koko moduulin ajan aina, kun projektissa tapahtuu jotakin oppimisen tai osaamisen osoittamisen kannalta merkittävää.
 
 ---
 
