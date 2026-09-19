@@ -94,32 +94,6 @@ Perustelut:
 
 [Tiimisopimus.docx](https://github.com/user-attachments/files/32415633/Tiimisopimus.docx)
 
-### Oma reflektio tiimisopimuksesta
-
-#### Mitä sovimme?
-
-Kuvaan lyhyesti tiimin tärkeimmät yhteiset toimintaperiaatteet.
-
-#### Miksi nämä asiat ovat tärkeitä?
-
-Pohdin esimerkiksi:
-
-* miten pidämme yhteyttä
-* miten vastuut jaetaan
-* miten toimitaan, jos joku ei vastaa
-* miten päätökset tehdään
-* miten erilaiset näkemykset käsitellään.
-
-#### Oma roolini tiimissä
-
-[Kuvaa oma toimintasi ja vastuusi.]
-
-#### Mitä olen tähän mennessä oppinut tiimiviestinnästä?
-
-[Konkreettinen esimerkki.]
-
-Tiimisopimus kuuluu osaksi ePortfoliota, vaikka itse tiimisopimuksesta ei anneta erillistä numeroarvosanaa.
-
 ---
 
 # 2. Vaihe 2 – Oman osaamisen näkyväksi tekeminen ja presentaatiotaidot
