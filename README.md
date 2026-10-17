@@ -134,61 +134,43 @@ Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä
 
 ## 2.3. ePortfolio: Sprint Review 1. ja esitys asiakkaalle (Zoom-tehtävä)
 
-**Tehtävän tarkoitus:** Pohdimme tiiminä, sopisiko pitchaus ensimmäisen Sprint Review'n esitystavaksi perinteisen PowerPoint-esityksen sijaan. Tavoitteena on kertoa projektin tärkeät löydökset, ehdotukset ja opit asiakkaalle tai sidosryhmille selkeästi, tiiviisti ja vaikuttavasti.
-
-### ENNEN SPRINTTIÄ
-
-*Kirjaan omaan portfoliooni tiimin kanssa käydyn keskustelun ajatukset kohdista 1 ja 2 ennen ensimmäistä sprinttiä.*
-
 #### 1. Minkä rakenteen valitsemme esityksellemme?
 
-**Mahdolliset pitch-rakenteet:**
+- Päädyimme lopulta melko perinteiseen PowerPoint-esitykseen emmekä käyttäneet yhtä tiettyä pitch-rakennetta. Esitys eteni sprintin tavoitteesta ja tilanteesta saavutuksiin, käyttöliittymään, esteisiin, oppeihin ja seuraaviin askeliin
 
-- Ongelma – Ratkaisu – Hyöty (Problem–Solution–Benefit)
-- Miksi – Mitä – Miten – Vaikutus (Why–What–How–Impact)
-- Elevator Pitch
-- Storytelling
+**Miksi valitsimme tai harkitsimme tätä rakennetta?**
 
-**Tiimimme valitsema tai harkitsema rakenne:** [Täydennä.]
+- PowerPoint tuntui tässä vaiheessa selkeältä tavalta esitellä asiakkaalle, mitä sprintissä oli saatu aikaan ja mitä tehdään seuraavaksi.
 
-**Miksi valitsimme tai harkitsimme tätä rakennetta?** [Täydennä.]
+**Miten rakenne sopii aiheeseemme ja Sprint Review -tilaisuuteen?**
 
-**Miten rakenne sopii aiheeseemme ja Sprint Review -tilaisuuteen?** [Täydennä.]
-
-**Valitsemmeko pitchauksen vai perinteisemmän PowerPoint-esityksen? Miksi?** [Täydennä.]
-
-**Muita huomioita keskustelusta:** [Täydennä.]
+- Rakenne sopi hyvin, koska asiakas sai nopeasti kokonaiskuvan työn etenemisestä ja pääsi kommentoimaan esimerkiksi käyttöliittymää ja seuraavia vaiheita.
 
 #### 2. Miten visualisoisimme esityksemme?
 
-**Miten teemme esityksestä havainnollistavan ja asiakasystävällisen?** [Täydennä tiimin keskustelun perusteella.]
-
-**Miten esityksemme eroaa perinteisestä PowerPoint-esityksestä, joita olen aiemmin tehnyt tai nähnyt?** [Täydennä.]
-
-**Onko esityksen visuaalinen ilme linjassa asiakkaan ulkoisen kuvan kanssa (esimerkiksi verkkosivujen kanssa)?** [Täydennä.]
-
-**Muut visualisointia koskevat ajatukset:** [Täydennä.]
+- Esityksessä käytimme selkeitä otsikoita, lyhyitä tekstiosuuksia sekä käyttöliittymän esittelyä. Valmistumisaste 90 % oli nostettu selvästi esille. Sprintin läpikäynti eOppimiskes…
+- Esitys oli melko perinteinen PowerPoint, mutta asiakkaalle annettiin mahdollisuus kommentoida käyttöliittymää ja tehdä päätöksiä jatkosta. Sprintin läpikäynti eOppimiskes…
+- Jatkossa visualisointia voisi parantaa vähentämällä tekstiä ja lisäämällä enemmän konkreettisia demoja tai kuvia.
 
 ### SPRINTIN JÄLKEEN
 
 #### 3. Henkilökohtainen reflektio esityksestä
 
-*Kirjoitan tämän osion itse ensimmäisen Sprint Review'n jälkeen ja pohdin, miten esityksen laatiminen kehitti osaamistani.*
+**Mitä opin viestinnästä, esiintymisestä tai asioiden tiivistämisestä?**
 
-**Mitä opin viestinnästä, esiintymisestä tai asioiden tiivistämisestä?** [Täydennä.]
+- Opin, että esityksessä pitää pystyä perustelemaan käytetyt luvut ja termit. Esimerkiksi 90 % valmistumisaste herätti kysymyksen, johon emme heti osanneet vastata.
 
-**Oliko esityksemme pitch vai perinteinen PowerPoint-esitys?** [Täydennä.]
+**Oliko esityksemme pitch vai perinteinen PowerPoint-esitys?**
+- Esitys oli enemmän perinteinen PowerPoint kuin varsinainen pitch.
 
-**Miten voin hyödyntää pitchaus- ja esitystaitoja tulevissa projekteissa, opinnoissa tai työelämässä?** [Täydennä.]
+**Miten voin hyödyntää pitchaus- ja esitystaitoja tulevissa projekteissa, opinnoissa tai työelämässä?**
+- Aion valmistautua paremmin mahdollisiin kysymyksiin ja pyrkiä esittämään asiat vielä selkeämmin
 
-**Miten asiakas tai ohjaaja reagoi esitykseemme, sen rakenteeseen ja havainnollistamiseen? Reagoiko hän lainkaan?** [Täydennä havaintojeni perusteella.]
+**Miten asiakas tai ohjaaja reagoi esitykseemme, sen rakenteeseen ja havainnollistamiseen? Reagoiko hän lainkaan?**
+- Palautetta tuli paljon. Joni piti backlogia hyvänä, viestintää selkeänä ja Confluence-muistiinpanoja onnistuneina. Kaisa puolestaan nosti esille käyttöliittymän terminologian, riskien tarkemman määrittelyn ja sen, että AI-oppeja pitäisi jakaa paremmin koko tiimille.
 
-**Mitä tekisin tai tekisimme seuraavassa Sprint Review'ssa toisin?** [Täydennä.]
-
-**Haluaisinko tai haluaisimmeko kokeilla seuraavalla kerralla erilaista pitch-rakennetta? Miksi tai miksi emme?** [Täydennä.]
-
-**Muita ajatuksia esityksestä:** [Täydennä.]
-
+**Mitä tekisin tai tekisimme seuraavassa Sprint Review'ssa toisin?**
+- Pidämme ensin asiakkaan Sprint Review'n ja vasta sen jälkeen oman review'n ja retrospectiven.
 ---
 
 # 3. Vaihe 3 – Sprint Review ja asiakasviestintä
