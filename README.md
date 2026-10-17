@@ -177,21 +177,28 @@ Täydennän ePortfolioni reflektoimalla toteutuksessa ja DF-projektissa tapahtun
 - [Tiivistä 1.1:n tärkeimmät havainnot.]
 
 **Osaamiseni nyt:**
+
 **Projektityöskentely**
-Miten olen kehittynyt?
+- Miten olen kehittynyt?
+- 
 **Tiimiviestintä**
 - Miten olen kehittynyt?
+- 
 **Asiakasviestintä**
 - Miten olen kehittynyt?
+- 
 **Oman osaamisen sanoittaminen**
 - Miten olen kehittynyt?
 
 **Presentaatiotaidot**
 - Miten olen kehittynyt?
+- 
 **Mitä en vielä osaa riittävän hyvin?**
 - [Täydennä.]
+- 
 **Mitä haluan kehittää seuraavaksi?**
 - [Täydennä.]
+- 
 **Oma kokonaisarvio oppimisestani**
 - Kurssin alussa [...]
 - Kurssin aikana [...]
