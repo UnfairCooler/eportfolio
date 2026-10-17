@@ -35,27 +35,14 @@ Tämän tarkoituksena on estää portfoliota jäämästä pelkäksi tehtävien k
      - Ennen sprinttiä: 2. Miten visualisoisimme esityksemme?
      - Sprintin jälkeen: 3. Henkilökohtainen reflektio esityksestä
 
-3. **Vaihe 3 – Sprint Review ja asiakasviestintä**
+3. **Vaihe 4 – DFP-presentaatio asiakkaalle**
 
-   * Sprint Review
-   * Esityksen suunnittelu ja visualisointi
-   * Henkilökohtainen reflektio Sprint Review'n jälkeen
+   * 4.1 ePortfolio ja arvioitava tiimitehtävä: DFP-presentaatio asiakkaalle
 
-4. **Vaihe 4 – Projektin eteneminen ja viestintä asiakkaan kanssa**
+4. **Vaihe 5 – Loppureflektio ja ePortfolion palautus**
 
-   * Projektin sisäinen viestintä
-   * Projektin ulkoinen viestintä
-   * Oma roolini ja osaamiseni projektissa
-   * Valmistautuminen lopulliseen asiakasesitykseen
-
-5. **Vaihe 5 – Final Presentation ja loppureflektio**
-
-   * Esitys asiakkaalle
-   * Esityksen itsearviointi
-   * Osaamiseni kehittyminen
-   * Lähtötilanteen ja lopputilanteen vertailu
-   * Mitä kehitän seuraavaksi?
-   * Tekoälyn käytön yhteenveto
+   * 5.1 ePortfolio: Loppureflektio projektissa ja projektiviestinnässä
+   * 5.2 ePortfolio ja arvioitava yksilötehtävä
 
 ---
 
