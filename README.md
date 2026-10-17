@@ -160,185 +160,54 @@ Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä
 - Pidämme ensin asiakkaan Sprint Review'n ja vasta sen jälkeen oman review'n ja retrospectiven.
 ---
 
-# 3. Vaihe 3 – Sprint Review ja asiakasviestintä
+# 3. Vaihe 4 – DFP-presentaatio asiakkaalle
 
-**Tarkista Moodlesta tämän vaiheen tarkka pääotsikko ja tehtävänumero.**
-
-## Sprint Review
-
-### What? – Mitä tapahtui?
-
-* Mikä oma roolini oli?
-* Mitä esittelimme asiakkaalle?
-* Miten esitys oli rakennettu?
-
-### So What? – Miten onnistui?
-
-Pohdin konkreettisesti:
-
-* mikä onnistui
-* mikä ei onnistunut
-* mikä asiakkaan näkökulmasta toimi
-* oliko esitys ymmärrettävä
-* toimiko työnjako
-* toimiko visualisointi
-* pysyimmekö ajassa.
-
-### Now What? – Mitä muutamme seuraavaan esitykseen?
-
-[Täydennä.]
-
-### Näyttö
-
-[Liitä esimerkiksi kuva esityksestä, linkki, dia tai muu sallittu työnäyte.]
-
-Sprintin jälkeen tehtävän henkilökohtainen osuus on nimenomaan oman esityksen ja jatkokehityksen reflektointia.
+**4.1 ePortfolio ja arvioitava tiimitehtävä: DFP-presentaatio asiakkaalle**
+[Täydennä tähän DFP-presentaation jälkeen tehtävänannon mukainen sisältö ja reflektio.]
 
 ---
 
-# 4. Vaihe 4 – Projektin eteneminen ja viestintä asiakkaan kanssa
+# 4. Vaihe 5 – Loppureflektio ja ePortfolion palautus
 
-**Tarkista Moodlesta vaiheen tarkka nimi ja alaotsikot.**
+**5.1 ePortfolio: Loppureflektio projektissa ja projektiviestinnässä**
+Täydennän ePortfolioni reflektoimalla toteutuksessa ja DF-projektissa tapahtunutta omin sanoin. Peilaan ajatuksiani kurssin alussa tehtyyn reflektioon osaamisestani sekä yksilö- että tiimitasolla.
 
-## Sisäinen viestintä
+**Lähtötilanne ja kehittyminen**
+- Kurssin alussa arvioin osaamiseni näin:
+- [Tiivistä 1.1:n tärkeimmät havainnot.]
 
-Miten viestintä toimii tiimimme sisällä?
+**Osaamiseni nyt:**
+**Projektityöskentely**
+Miten olen kehittynyt?
+**Tiimiviestintä**
+- Miten olen kehittynyt?
+**Asiakasviestintä**
+- Miten olen kehittynyt?
+**Oman osaamisen sanoittaminen**
+- Miten olen kehittynyt?
 
-Konkreettinen esimerkki:
-
-**Tilanne:** [...]
-**Oma toimintani:** [...]
-**Lopputulos:** [...]
-**Mitä opin:** [...]
-
-## Ulkoinen viestintä
-
-Miten viestimme asiakkaalle?
-
-Konkreettinen esimerkki:
-
-**Tilanne:** [...]
-**Oma toimintani:** [...]
-**Lopputulos:** [...]
-**Mitä opin:** [...]
-
-## Oma roolini projektissa
-
-Mikä vastuuni projektissa on ollut?
-
-Miten oma toimintani on vaikuttanut projektin etenemiseen?
-
-Mitä ammatillista osaamista projektissa on tarvittu?
-
-## Kehittymiseni projektin aikana
-
-Vertaan toimintaani projektin alkuun.
-
-Mikä on jo muuttunut?
-
-Missä olen edelleen epävarma?
-
-Mitä haluan kokeilla ennen lopullista asiakasesitystä?
+**Presentaatiotaidot**
+- Miten olen kehittynyt?
+**Mitä en vielä osaa riittävän hyvin?**
+- [Täydennä.]
+**Mitä haluan kehittää seuraavaksi?**
+- [Täydennä.]
+**Oma kokonaisarvio oppimisestani**
+- Kurssin alussa [...]
+- Kurssin aikana [...]
+- Projektissa merkittävin oppimistilanteeni oli [...]
+- Tämä tilanne osoitti minulle, että [...]
+- Osaamiseni näkyy konkreettisesti esimerkiksi [...]
+- Jos aloittaisin saman projektin uudelleen, tekisin [...]
+- Tulevissa opinnoissa tai työelämässä aion hyödyntää [...]
 
 ---
 
-# 5. Vaihe 5 – Final Presentation ja loppureflektio
-
-**Tarkista Moodlesta vaiheen tarkka pääotsikko.** Videoiden perusteella lopullinen ePortfolio palautetaan tämän viimeisen vaiheen lopussa.
-
-## Esitys asiakkaalle – Final Presentation
-
-### Oma roolini
-
-[Kuvaa.]
-
-### Miten esitys onnistui?
-
-Konkreettinen arvio.
-
-### Mikä onnistui hyvin?
-
-[Kuvaa esimerkkien kautta.]
-
-### Mitä olisi pitänyt tehdä paremmin?
-
-[Kuvaa.]
-
-### Mitä opin asiakasviestinnästä?
-
-[Kuvaa.]
-
-Asiakasesityksen arviointi kuuluu myös ePortfolioon: mitä olisi voinut parantaa ja miten itse arvioin omaa toimintaani.
+**5.2 ePortfolio ja arvioitava yksilötehtävä**
+Tehtävän tavoitteena on luoda ePortfolio, joka heijastaa omaa osaamistani ja jota voin muokata koko toteutuksen ajan. Portfolion alussa ja lopussa reflektoin oppimistani ja osaamistani.
 
 ---
 
-# Osaamiseni kehittyminen kurssin aikana
-
-## Lähtötilanne
-
-Kurssin alussa arvioin osaamiseni näin:
-
-[Tiivistä 1.1:n tärkeimmät havainnot.]
-
-## Osaamiseni nyt
-
-### Projektityöskentely
-
-Miten olen kehittynyt?
-
-**Konkreettinen näyttö:** [...]
-
-### Tiimiviestintä
-
-Miten olen kehittynyt?
-
-**Konkreettinen näyttö:** [...]
-
-### Asiakasviestintä
-
-Miten olen kehittynyt?
-
-**Konkreettinen näyttö:** [...]
-
-### Oman osaamisen sanoittaminen
-
-Miten olen kehittynyt?
-
-**Konkreettinen näyttö:** [...]
-
-### Presentaatiotaidot
-
-Miten olen kehittynyt?
-
-**Konkreettinen näyttö:** [...]
-
-## Mitä en vielä osaa riittävän hyvin?
-
-[Täydennä.]
-
-## Mitä haluan kehittää seuraavaksi?
-
-[Täydennä.]
-
----
-
-# Oma kokonaisarvio oppimisestani
-
-Kurssin alussa [...]
-
-Kurssin aikana [...]
-
-Projektissa merkittävin oppimistilanteeni oli [...]
-
-Tämä tilanne osoitti minulle, että [...]
-
-Osaamiseni näkyy konkreettisesti esimerkiksi [...]
-
-Jos aloittaisin saman projektin uudelleen, tekisin [...]
-
-Tulevissa opinnoissa tai työelämässä aion hyödyntää [...]
-
----
 
 # Tarkistuslista ennen palautusta
 
