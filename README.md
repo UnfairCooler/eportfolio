@@ -163,7 +163,7 @@ Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä
 # 3. Vaihe 4 – DFP-presentaatio asiakkaalle
 
 **4.1 ePortfolio ja arvioitava tiimitehtävä: DFP-presentaatio asiakkaalle**
-[Täydennä tähän DFP-presentaation jälkeen tehtävänannon mukainen sisältö ja reflektio.]
+[HankeVAHTI_Sprint_Review.pptx](https://github.com/user-attachments/files/33759046/HankeVAHTI_Sprint_Review.pptx)
 
 ---
 
@@ -172,42 +172,11 @@ Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä
 **5.1 ePortfolio: Loppureflektio projektissa ja projektiviestinnässä**
 Täydennän ePortfolioni reflektoimalla toteutuksessa ja DF-projektissa tapahtunutta omin sanoin. Peilaan ajatuksiani kurssin alussa tehtyyn reflektioon osaamisestani sekä yksilö- että tiimitasolla.
 
-**Lähtötilanne ja kehittyminen**
-- Kurssin alussa arvioin osaamiseni näin:
-- [Tiivistä 1.1:n tärkeimmät havainnot.]
+- Projektista jäi itselle erityisesti oppi siitä, miten ohjelmistokehitys etenee käytännössä asiakkaan tarpeesta toimivaksi kokonaisuudeksi. Opin käyttämään Scrumia, Jiraa ja Confluencea osana oikeaa projektityöskentelyä.
 
-**Osaamiseni nyt:**
+- Teknisesti opin paljon Python-pohjaisesta web-sovelluksesta, tietokannasta, API-rajapinnoista. Opin, että tekoäly nopeuttaa kehitystä paljon, mutta hyvä lopputulos vaatii tarkat ohjeet, testaamista ja sitä, että itse ymmärtää mitä ollaan rakentamassa.
 
-**Projektityöskentely**
-- Miten olen kehittynyt?
-  
-**Tiimiviestintä**
-- Miten olen kehittynyt?
-  
-**Asiakasviestintä**
-- Miten olen kehittynyt?
-  
-**Oman osaamisen sanoittaminen**
-- Miten olen kehittynyt?
-
-**Presentaatiotaidot**
-- Miten olen kehittynyt?
-  
-**Mitä en vielä osaa riittävän hyvin?**
-- [Täydennä.]
-  
-**Mitä haluan kehittää seuraavaksi?**
-- [Täydennä.]
-  
-**Oma kokonaisarvio oppimisestani**
-- Kurssin alussa [...]
-- Kurssin aikana [...]
-- Projektissa merkittävin oppimistilanteeni oli [...]
-- Tämä tilanne osoitti minulle, että [...]
-- Osaamiseni näkyy konkreettisesti esimerkiksi [...]
-- Jos aloittaisin saman projektin uudelleen, tekisin [...]
-- Tulevissa opinnoissa tai työelämässä aion hyödyntää [...]
-
+- Kokonaisuutena projekti antoi paljon varmuutta sekä ohjelmistokehitykseen että asiakasprojektissa työskentelyyn.
 ---
 
 **5.2 ePortfolio ja arvioitava yksilötehtävä**
