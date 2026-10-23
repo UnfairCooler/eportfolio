@@ -42,7 +42,6 @@ Tämän tarkoituksena on estää portfoliota jäämästä pelkäksi tehtävien k
 4. **Vaihe 5 – Loppureflektio ja ePortfolion palautus**
 
    * 5.1 ePortfolio: Loppureflektio projektissa ja projektiviestinnässä
-   * 5.2 ePortfolio ja arvioitava yksilötehtävä
 
 ---
 
@@ -135,8 +134,8 @@ Urapalveluiden esityksestä jäi mieleen erityisesti että työnhaussa ei riitä
 
 #### 2. Miten visualisoisimme esityksemme?
 
-- Esityksessä käytimme selkeitä otsikoita, lyhyitä tekstiosuuksia sekä käyttöliittymän esittelyä. Valmistumisaste 90 % oli nostettu selvästi esille. Sprintin läpikäynti eOppimiskes…
-- Esitys oli melko perinteinen PowerPoint, mutta asiakkaalle annettiin mahdollisuus kommentoida käyttöliittymää ja tehdä päätöksiä jatkosta. Sprintin läpikäynti eOppimiskes…
+- Esityksessä käytimme selkeitä otsikoita, lyhyitä tekstiosuuksia sekä käyttöliittymän esittelyä. Valmistumisaste 90 % oli nostettu selvästi esille.
+- Esitys oli melko perinteinen PowerPoint, mutta asiakkaalle annettiin mahdollisuus kommentoida käyttöliittymää ja tehdä päätöksiä jatkosta.
 - Jatkossa visualisointia voisi parantaa vähentämällä tekstiä ja lisäämällä enemmän konkreettisia demoja tai kuvia.
 
 ### SPRINTIN JÄLKEEN
