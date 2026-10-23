@@ -179,29 +179,6 @@ Täydennän ePortfolioni reflektoimalla toteutuksessa ja DF-projektissa tapahtun
 - Kokonaisuutena projekti antoi paljon varmuutta sekä ohjelmistokehitykseen että asiakasprojektissa työskentelyyn.
 ---
 
-**5.2 ePortfolio ja arvioitava yksilötehtävä**
-Tehtävän tavoitteena on luoda ePortfolio, joka heijastaa omaa osaamistani ja jota voin muokata koko toteutuksen ajan. Portfolion alussa ja lopussa reflektoin oppimistani ja osaamistani.
-
----
-
-
-# Tarkistuslista ennen palautusta
-
-Ennen palauttamista tarkistan, että:
-
-* jokainen Moodlen ePortfolio-tehtävä löytyy portfoliosta
-* pää- ja alaotsikot vastaavat Moodlen lopullisia otsikoita
-* kirjoitan omasta tekemisestä enkä vain projektista yleisesti
-* käytän konkreettisia esimerkkejä
-* yhdistän oppimisen Design Factory -projektiin
-* arvioin myös epäonnistumisia ja kehittämiskohteita
-* kaikki linkit toimivat opettajalle
-* ammattitermit on selitetty tarvittaessa
-* kieli on huoliteltua ja sujuvaa
-* lukija on huomioitu
-* tekoälyn käyttö on ilmoitettu
-* vertaan lopussa lähtötilannetta ja lopputilannetta.
-
 Arvioinnin kannalta tärkein periaate on, että **yleinen osaamisen kuvaaminen sijoittuu videoiden mukaan tasolle 1–3, kun taas konkreettisesti projektiin sidotut esimerkit ja reflektio vievät kohti tasoja 4–5. Vitostasolla korostuvat lisäksi sujuva kieli ja lukijan huomioiminen.**
 
 Portfolion pituus ei itsessään ratkaise arviointia. Olennaisempaa on se, kuinka hyvin pystyn paketoimaan ja tekemään näkyväksi viestintäosaamiseni, oppimiseni ja ajatukseni.
